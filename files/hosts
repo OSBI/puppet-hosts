@@ -1,15 +1,3 @@
-# IPv6
-::1 ip6-localhost ip6-loopback
-fe00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-
 # IPv4
 127.0.0.1	localhost
-85.10.241.73	webserver.analytical-labs.com	webserver
-85.10.241.72	ci.analytical-labs.com	ci
-78.47.239.253	analytical-labs.com Ubuntu-1010-maverick-64-minimal
-85.10.241.74	projects.analytical-labs.com	projects
-46.137.95.179	puppet.analytical-labs.com	puppet
+176.34.252.167	puppet.analytical-labs.com	puppet
