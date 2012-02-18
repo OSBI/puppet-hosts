@@ -2,8 +2,7 @@
 127.0.0.1	localhost
 176.34.252.167	puppet.analytical-labs.com	puppet
 46.4.83.44	master.analytical-labs.com	master
-85.10.241.74 ci2.analytical-labs.com ci2
+176.9.120.178 ci2.analytical-labs.com ci2
 85.10.241.75 webserver2.analytical-labs.com webserver2
 46.137.95.179 monitoring.analytical-labs.com monitoring
 78.47.239.253 vhost.analytical-labs.com vhost
-176.34.249.40 puppet.meteoritehosting.com puppet
