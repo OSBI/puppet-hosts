@@ -1,0 +1,19 @@
+{
+  "name": "Analytical Labs-hosts",
+  "author": "Tom Barber",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "1.0",
+  "checksums": {
+    "Modulefile": "26e335a57ed57e67b467091e77258002",
+    "README": "5a6d90567d3af5e062c7ae525f4e09a6",
+    "manifests/init.pp": "f42303a973cf157d77ab4ec50bf6e75a",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "tests/init.pp": "3fb600c02067be473090d5e82e777b55"
+  },
+  "dependencies": []
+}
